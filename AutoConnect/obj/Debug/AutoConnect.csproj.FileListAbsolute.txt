@@ -1,0 +1,9 @@
+c:\users\ron\documents\visual studio 2012\Projects\AutoConnect\AutoConnect\bin\Debug\AutoConnect.exe.config
+c:\users\ron\documents\visual studio 2012\Projects\AutoConnect\AutoConnect\bin\Debug\AutoConnect.exe
+c:\users\ron\documents\visual studio 2012\Projects\AutoConnect\AutoConnect\bin\Debug\AutoConnect.pdb
+c:\users\ron\documents\visual studio 2012\Projects\AutoConnect\AutoConnect\obj\Debug\AutoConnect.AutoConnect.resources
+c:\users\ron\documents\visual studio 2012\Projects\AutoConnect\AutoConnect\obj\Debug\AutoConnect.Properties.Resources.resources
+c:\users\ron\documents\visual studio 2012\Projects\AutoConnect\AutoConnect\obj\Debug\AutoConnect.csproj.GenerateResource.Cache
+c:\users\ron\documents\visual studio 2012\Projects\AutoConnect\AutoConnect\obj\Debug\AutoConnect.exe
+c:\users\ron\documents\visual studio 2012\Projects\AutoConnect\AutoConnect\obj\Debug\AutoConnect.pdb
+C:\Users\Ron\documents\visual studio 2012\Projects\AutoConnect\AutoConnect\obj\Debug\AutoConnect.csprojResolveAssemblyReference.cache
