@@ -19,4 +19,14 @@
 </div>
 
 
-![](https://github.com/Ron-Wang/AutoConnect/blob/master/Images/AutoConnect_00.png)
+![AutoConect解压后](https://github.com/Ron-Wang/AutoConnect/blob/master/Images/AutoConnect_00.png)
+
+![AutoConect界面](https://github.com/Ron-Wang/AutoConnect/blob/master/Images/AutoConnect_01.png)
+
+![AutoConect自动连接](https://github.com/Ron-Wang/AutoConnect/blob/master/Images/AutoConnect_02.png)
+
+![AutoConect数据文件](https://github.com/Ron-Wang/AutoConnect/blob/master/Images/AutoConnect_04.png)
+
+![AutoConect添加新账号](https://github.com/Ron-Wang/AutoConnect/blob/master/Images/AutoConnect_05.png)
+
+![AutoConect账号列表](https://github.com/Ron-Wang/AutoConnect/blob/master/Images/AutoConnect_06.png)
