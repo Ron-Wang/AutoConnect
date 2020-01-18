@@ -39,7 +39,7 @@ AutoConnect可以根据用户设定的时间间隔（单位：s），定时检�
 <img src="https://github.com/Ron-Wang/AutoConnect/blob/master/Images/AutoConnect_06.png" width="700">
   
 ## 补充说明
-* 自动连接的校园网网址为[net](net.tsinghua.edu.cn),尚不支持[auth4](auth4.tsinghua.edu.cn)
+* 自动连接的校园网网址为net.tsinghua.edu.cn,尚不支持auth4.tsinghua.edu.cn
 * 如需断开连接，退出AutoConnect后需要手动断开连接
 * 相关问题可联系作者：wangrongxin168@163.com
 
