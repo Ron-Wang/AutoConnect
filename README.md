@@ -16,7 +16,8 @@ AutoConnect可以根据用户设定的时间间隔（单位：s），定时检�
 ## 运行界面
 在release中下载zip，解压得到  
   
-![AutoConect解压后](https://github.com/Ron-Wang/AutoConnect/blob/master/Images/AutoConnect_00.png = 250x)
+<img src="https://github.com/Ron-Wang/AutoConnect/blob/master/Images/AutoConnect_00.png" width="250">
+![AutoConect解压后](https://github.com/Ron-Wang/AutoConnect/blob/master/Images/AutoConnect_00.png)
 运行AutoConnect，界面如下：  
   
 ![AutoConect界面](https://github.com/Ron-Wang/AutoConnect/blob/master/Images/AutoConnect_01.png = 250x)
