@@ -20,21 +20,21 @@ AutoConnect可以根据用户设定的时间间隔（单位：s），定时检�
   
 运行AutoConnect，界面如下：  
   
-<img src="https://github.com/Ron-Wang/AutoConnect/blob/master/Images/AutoConnect_00.png" width="800">
+<img src="https://github.com/Ron-Wang/AutoConnect/blob/master/Images/AutoConnect_01.png" width="800">
   
 输入账号、密码及检查连接的时间间隔（单位：s）后，点击“开始自动连接”，即可开始  
   
-<img src="https://github.com/Ron-Wang/AutoConnect/blob/master/Images/AutoConnect_00.png" width="800">
+<img src="https://github.com/Ron-Wang/AutoConnect/blob/master/Images/AutoConnect_02.png" width="800">
   
 如果勾选“记住密码”，则会生成相应的数据文件data.ini，此后打开AutoConnect会自动加载数据中的账号密码（可多个）  
   
-<img src="https://github.com/Ron-Wang/AutoConnect/blob/master/Images/AutoConnect_00.png" width="800">
+<img src="https://github.com/Ron-Wang/AutoConnect/blob/master/Images/AutoConnect_04.png" width="800">
   
 添加新账号
   
-<img src="https://github.com/Ron-Wang/AutoConnect/blob/master/Images/AutoConnect_00.png" width="800">
+<img src="https://github.com/Ron-Wang/AutoConnect/blob/master/Images/AutoConnect_05.png" width="800">
   
 点击账号中的下拉列表，加载所有账号：
   
-<img src="https://github.com/Ron-Wang/AutoConnect/blob/master/Images/AutoConnect_00.png" width="800">
+<img src="https://github.com/Ron-Wang/AutoConnect/blob/master/Images/AutoConnect_06.png" width="800">
   
