@@ -14,7 +14,7 @@ AutoConnect可以根据用户设定的时间间隔（单位：s），定时检�
 * 增加**记住密码**功能
     
 ## 运行界面
-* 在releases (https://github.com/Ron-Wang/AutoConnect/releases) 中下载zip，解压得到  
+* 在releases (https://github.com/Ron-Wang/AutoConnect/releases) 中下载AutoConnect.zip，解压得到  
   
 <div align="center">
     <img src="https://github.com/Ron-Wang/AutoConnect/blob/master/Images/AutoConnect_00.png" width="700">
@@ -32,13 +32,13 @@ AutoConnect可以根据用户设定的时间间隔（单位：s），定时检�
     <img src="https://github.com/Ron-Wang/AutoConnect/blob/master/Images/AutoConnect_02.png" width="600">
 </div>
   
-* 如果勾选“记住密码”，则会生成相应的数据文件data.ini，此后打开AutoConnect会自动加载数据中的账号密码（可多个）  
+* 如果勾选“记住密码”，则会生成相应的数据文件data.int，此后打开AutoConnect会自动加载数据中的账号密码（可多个）  
   
 <div align="center">
     <img src="https://github.com/Ron-Wang/AutoConnect/blob/master/Images/AutoConnect_04.png" width="700">
 </div>
   
-* 添加新账号，如果勾选“记住密码”，则AutoConnect会更新data.ini，添加新的账号密码  
+* 添加新账号，如果勾选“记住密码”，则AutoConnect会更新data.int，添加新的账号密码  
   
 <div align="center">
     <img src="https://github.com/Ron-Wang/AutoConnect/blob/master/Images/AutoConnect_05.png" width="600">
