@@ -13,7 +13,7 @@ AutoConnect可以根据用户设定的时间间隔（单位：s），定时检�
 ## 更新说明
 * 增加**记住密码**功能
     
-## 运行界面
+## 运行说明
 * 在releases (https://github.com/Ron-Wang/AutoConnect/releases) 中下载AutoConnect.zip，解压得到  
   
 <div align="center">
