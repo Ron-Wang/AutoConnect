@@ -6,13 +6,13 @@ AutoConnect可以根据用户设定的时间间隔（单位：s），定时检�
 当网络断开时，则根据用户填写的用户名和密码填充网络登录界面信息，并进行连接，从而保证网络连接。  
 在采用teamwear等远程连接软件时，通过AutoConnect可以避免出现网络断开而无法使用的情况。
     
+## 更新说明
+* 增加**记住密码**功能
+    
 ## 运行环境
 * 硬件环境：PC机
 * 软件环境：Windows系列操作系统
 
-## 更新说明
-* 增加**记住密码**功能
-    
 ## 运行说明
 * 在releases (https://github.com/Ron-Wang/AutoConnect/releases) 中下载AutoConnect.zip，解压得到  
   
