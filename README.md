@@ -13,7 +13,7 @@ AutoConnect可以根据用户设定的时间间隔（单位：s），定时检�
 * 硬件环境：PC机
 * 软件环境：Windows系列操作系统
 
-## 运行说明
+## 使用说明
 * 在releases (https://github.com/Ron-Wang/AutoConnect/releases) 中下载AutoConnect.zip，解压得到  
   
 <div align="center">
