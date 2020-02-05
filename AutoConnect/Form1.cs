@@ -239,5 +239,18 @@ namespace AutoConnect
         {
             CheckAccount();
         }
+        private void autoStartup()
+        {
+            string StartupPath = System.Environment.GetFolderPath(System.Environment.SpecialFolder.CommonStartup);
+            string dir = Directory.GetCurrentDirectory();
+            string exeDir = dir + @"\AutoConnect.exe.lnk";
+            File.Copy(exeDir, StartupPath + @"\AutoConnect.exe.lnk", true);
+        }
+        private void stopStartup()
+        {
+            string StartupPath = System.Environment.GetFolderPath(System.Environment.SpecialFolder.CommonStartup);
+            System.IO.File.Delete(StartupPath + @"\AutoConnect.exe.lnk");
+        }
+        
     }
 }
