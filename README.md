@@ -1,7 +1,7 @@
 # AutoConnect
 自动连接**清华校园网**（net.tsinghua.edu.cn）
 
-**清华校园网连接地址变化为auth4.tsinghua.edu.cn，前述方案失效，Python脚本（ https://github.com/Ron-Wang/AutoConnect/blob/master/AutoConnect.py ）可用**
+**！！！清华校园网连接地址变化为auth4.tsinghua.edu.cn，前述方案失效，Python脚本（ https://github.com/Ron-Wang/AutoConnect/blob/master/AutoConnect.py ）可用**
 
 ## 概述
 AutoConnect可以根据用户设定的时间间隔（单位：s），定时检查清华网连接状态。  
